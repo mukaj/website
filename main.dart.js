@@ -50790,7 +50790,7 @@ s=b.L(t.w).f
 $.aif=s
 $.a4c=s.a.a
 $.aig=r
-return new A.zZ(A.c(["C++",".NET","C#","MS SQL","Python","Git","Postman","Google Cloud Projects"],t.i),A.c([new A.j8("Aug 2021","Present","Duka Property Management Inc.","Software Development Coordinator"),new A.j8("Jun 2020","Aug 2020","Dentem","Junior API Developer")],t.ic),null)}}
+return new A.zZ(A.c(["C++",".NET","C#","MS SQL","Python","Django","Git","Postman","Google Cloud Projects"],t.i),A.c([new A.j8("Aug 2021","Present","Duka Property Management Inc.","Software Development Coordinator"),new A.j8("Jun 2020","Aug 2020","Dentem","Junior API Developer")],t.ic),null)}}
 A.j8.prototype={}
 A.zZ.prototype={
 J(a,b){var s,r,q=null,p="ProductSans",o=4282728539,n=$.a2m()
